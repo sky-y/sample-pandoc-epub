@@ -13,7 +13,8 @@ sample-pandoc-epub/
 ├── README.md                        # このプロジェクトの説明ファイル
 ├── defaults.yaml                    # Pandocの設定ファイル
 ├── style.css                        # EPUB用のスタイルシート
-├── gingatetsudono_yoru_image.md     # 宮沢賢治『銀河鉄道の夜』のMarkdownファイル
+├── gingatetsudono_yoru.md           # 宮沢賢治『銀河鉄道の夜』のMarkdownファイル
+├── gingatetsudono_yoru_image.md     # 宮沢賢治『銀河鉄道の夜』のMarkdownファイル（修正版）
 ├── gingatetsudono_yoru_final.epub   # 生成されたEPUBファイル
 ├── img/                             # 画像ファイルを格納するディレクトリ
 │   ├── Gemini_Generated_Image.png   # AI生成の銀河鉄道の夜のイメージ画像
