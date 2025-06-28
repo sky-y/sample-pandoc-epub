@@ -1,0 +1,6 @@
+input-files:
+  - gingatetsudono_yoru_image.md
+from: markdown+hard_line_breaks
+output-file: gingatetsudono_yoru_final.epub
+css: style.css
+epub-cover-image: img/Miyazawa_Kenji.jpg
