@@ -26,4 +26,6 @@ sample-pandoc-epub/
 
 ## ライセンス
 
-Public Domain
+img/Copilot_Generated_Cover.png については、Copilotの生成画像の利用条件に従います。
+
+その他はPublic Domainです。
