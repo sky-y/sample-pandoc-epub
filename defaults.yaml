@@ -3,4 +3,4 @@ input-files:
 from: markdown+hard_line_breaks
 output-file: gingatetsudono_yoru_final.epub
 css: style.css
-epub-cover-image: img/Miyazawa_Kenji.jpg
+epub-cover-image: img/Copilot_Generated_Cover.png
